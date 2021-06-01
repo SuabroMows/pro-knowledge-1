@@ -1,0 +1,137 @@
+.head-img1{
+	height: 75px;
+	padding-bottom: 10px;
+	margin-left: 1px;
+}
+.head-img2{
+	height: 75px;
+	padding-bottom: 10px;
+	margin-left: 100px;
+}
+.head-img3{
+	height: 75px;
+	padding-bottom: 10px;
+	margin-left: 100px;
+}
+.head-img4{
+	height: 75px;
+	padding-bottom: 10px;
+	margin-left: 100px;
+}
+
+.H1{
+	margin: 10px 0 0 0;
+}
+
+.navbar-nav{
+	margin: 0 auto;
+}
+
+.menu{
+	padding-top:10px;
+	background-color: #8FDE54;
+}
+
+.nav-link{
+	font-size: 20px;
+}
+
+.main{
+	background-color: #B8DE54;
+}
+
+.img-bg{
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("img/main.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 600px;
+}
+
+.naprav{
+    background-color: #B8DE54;
+}
+
+.naprav_box {
+	padding-top: 30px;
+    text-align: center;
+}
+
+.naprav_img {
+    width: 60px;
+}
+
+.naprav_titel{
+	font-size:30px;
+	padding-left: 50px;
+}
+
+.img_w{
+	height: 85px;
+	padding-bottom:10px;
+}
+
+.row_mg{
+	margin-top: 30px;
+}
+
+.col-tx{
+	font-size:20px;
+}
+
+.head_logo{
+	height: 70px;
+}
+
+.prepods{
+	background-color: #B8DE54;	
+}
+
+.prepodsct{
+	text-align:center;
+	font-size: 30px;
+}
+
+.teach-logo{
+	height: 300px;
+	margin-top: 50px;
+}
+
+.prepod-l{
+	height: 75px;
+	padding-top: 20px;
+}
+
+.prepod-2{
+	width: 85px;
+	padding-top: 10px;
+}
+
+.prepod-3{
+	width: 100px;
+	padding-top: 10px;
+}
+
+.albump{
+width: 300PX;
+padding:20px;
+border-radius: 10PX;
+}
+
+.ost{
+height:100px;
+size: 100px;
+}
+
+.ots{
+background-color: #B8DE54
+}
+
+.rk{
+height: 400px;
+}
+
+.tx{
+font-size: 12px;
+}
